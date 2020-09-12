@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /cgi-bin
+<script src="//code.jivosite.com/widget/AD8zN0WybD" async></script>
